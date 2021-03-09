@@ -1,3 +1,3 @@
 This is an example branch of using GIT
 
-show example of merge conflict
+show example of merge conflictasdfasdf
